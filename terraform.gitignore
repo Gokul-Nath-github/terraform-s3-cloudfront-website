@@ -4,25 +4,3 @@
 # Terraform state files
 terraform.tfstate
 terraform.tfstate.backup
-
-# Crash log files
-crash.log
-
-# Ignore override files as they are usually for local setup
-override.tf
-override.tf.json
-*_override.tf
-*_override.tf.json
-
-# CLI configuration files
-.terraformrc
-terraform.rc
-
-# IDE/editor specific
-.vscode/
-.idea/
-*.swp
-
-# OS generated files
-.DS_Store
-Thumbs.db
