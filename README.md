@@ -32,10 +32,9 @@ This project deploys a static website hosted on **Amazon S3**, served securely v
 ```
 
 # Screenshots
-1. S3 Bucket Configuration
-2. CloudFront Distribution
-3. Live Website
-4. Terraform Apply Output
+1. [S3 Bucket Configuration](screenshots/Cloudfront_sc.jpg)
+2. [CloudFront Distribution](screenshots/s3_sc.jpg)
+3. [Live Website](screenshots/website_sc.jpg)
 
 # Requirements
 AWS CLI with credentials configured
