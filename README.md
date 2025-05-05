@@ -36,6 +36,9 @@ This project deploys a static website hosted on **Amazon S3**, served securely v
 2. [CloudFront Distribution](screenshots/s3_sc.jpg)
 3. [Live Website](screenshots/website_sc.jpg)
 
+# Live webiste 
+[live static website](https://d1edpdbuyipbzz.cloudfront.net/)
+
 # Requirements
 AWS CLI with credentials configured
 Terraform installed (>= 1.0)
